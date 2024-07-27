@@ -994,7 +994,7 @@ section:nth-child(odd) .animate.scroll,
     }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 420px) {
     .image-container {
         display: none;
     }
