@@ -977,7 +977,7 @@ section:nth-child(odd) .animate.scroll,
     }
 }
 
-@media (max-width: 371px){
+/* @media (max-width: 371px){
     .home {
         justify-content: center;
     }
@@ -992,7 +992,7 @@ section:nth-child(odd) .animate.scroll,
     .home-content h1 {
         font-size: 5rem;
     }
-}
+} */
 
 @media (max-width: 420px) {
     .image-container {
